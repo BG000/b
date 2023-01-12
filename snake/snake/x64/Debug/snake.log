@@ -1,0 +1,3 @@
+﻿  snake.cpp
+D:\snake\snake\snake.cpp(183,16): warning C4002: 类函数宏的调用“RGB”参数过多
+  snake.vcxproj -> D:\snake\x64\Debug\snake.exe
